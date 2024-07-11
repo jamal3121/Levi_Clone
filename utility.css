@@ -1,0 +1,22 @@
+.bold{
+    font-weight: bold;
+}
+.font-sm{
+    font-size: 14px;
+}
+.font-xs{
+    font-size: 12px;
+    
+}
+.flex-col{
+    flex-direction: column;
+}
+.z-1{
+    z-index: 1;
+}
+.bg-black{
+    background-color: black     ;
+}
+.mb-0{
+    margin-bottom: 0px;
+}
